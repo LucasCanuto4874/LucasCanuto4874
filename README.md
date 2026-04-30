@@ -1,25 +1,25 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/2d/a9/73/2da973e9c74c3cd66c850828bdf4f719.jpg" width="100%"/>
+  &nbsp;&nbsp;
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=250&pause=1000&color=F7F7F7&width=1500&height=300&lines=Let+me+be+your+Halo" alt="Typing SVG" /></a>
-</div>
 
-<div align="center">
 <a href="https://www.linkedin.com/in/lucas-canuto-889255289/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-
+ &nbsp;&nbsp;
 <a href="https://osu.ppy.sh/users/17024149" target="_blank">
   <img src="https://img.shields.io/badge/osu!-white?style=for-the-badge&logo=osu&logoColor=black"/>
 </a>
-
+ &nbsp;&nbsp;
 <a href="https://open.spotify.com/user/lucashatech09" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-white?style=for-the-badge&logo=spotify&logoColor=black"/>
 </a>
-
+ &nbsp;&nbsp;
 <a href="https://www.reddit.com/user/Typical_Stick7348/" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=black"/>
 </a>
 </div>
+
 
 ##
 <img align="left" height="500" src="https://i.pinimg.com/1200x/91/1a/0b/911a0ba1009e5e14e1454c28d698f3cd.jpg" width="250"/>
