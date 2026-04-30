@@ -4,7 +4,10 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=150&duration=3500&pause=&color=F7F7F7&center=true&vCenter=true&repeat=true&width=1200&height=300&lines=Let+me+be+your+Halo" alt="Typing SVG" /></a>
 </div>
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <h1 align="left">About Me</h1>
 
 ###
