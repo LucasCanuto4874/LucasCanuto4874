@@ -3,11 +3,10 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=150&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1500&height=150&lines=Let+me+be+your+Halo"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=250&pause=1000&color=F7F7F7&width=1500&height=300&lines=Let+me+be+your+Halo" alt="Typing SVG" /></a>
 </div>
-
+<br><br>
 <div align="center">
-
 <a href="https://www.linkedin.com/in/lucas-canuto-889255289/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
@@ -23,7 +22,6 @@
 <a href="https://www.reddit.com/user/Typical_Stick7348/" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=black"/>
 </a>
-
 </div>
 
 ##
