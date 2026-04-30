@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./imagem_principal.png" width="100%"/>
+  <img src="./Gemini_Generated_Image_8b5nyc8b5nyc8b5n.png" width="100%"/>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=150&duration=3500&pause=&color=F7F7F7&center=true&vCenter=true&repeat=false&width=1200&height=300&lines=Let+me+be+your+Halo" alt="Typing SVG" /></a>
 </div>
