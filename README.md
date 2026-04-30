@@ -1,15 +1,6 @@
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/2d/a9/73/2da973e9c74c3cd66c850828bdf4f719.jpg" width="100%"/>
+  <img src="https://i.pinimg.com/originals/50/75/71/5075710b2596ae9889349129c8c4144d.gif" width="100%"/>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=150&duration=3500&pause=&color=F7F7F7&center=true&vCenter=true&repeat=true&width=1200&height=300&lines=Let+me+be+your+Halo" alt="Typing SVG" /></a>
 </div>
