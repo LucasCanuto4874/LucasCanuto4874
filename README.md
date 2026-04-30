@@ -15,6 +15,8 @@
 <h2 align="left">My name is Lucas, I'm 19 years old and I currently work as a FullStack Developer at Vivo Telefônica, while studying Information Systems at São Paulo Tech School. I have about 3 years of experience in the technology field, mainly focusing on backend and infrastructure, which is where I most enjoy delving into and exploring on a daily basis. Outside of coding, I enjoy playing games like osu!, Rainbow Six, Valorant, League of Legends, and Overwatch. I also have a strong connection to the JDM world, including collecting miniature cars, and my favorite is the Toyota Chaser JZX100.</h2>
 
 ###
+###
+###
 
 <h1 align="left">Technologies</h1>
 
