@@ -4,8 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=150&duration=3500&pause=&color=F7F7F7&center=true&vCenter=true&repeat=false&width=1200&height=300&lines=Let+me+be+your+Halo" alt="Typing SVG" /></a>
 </div>
 
-<br><br>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lucas-canuto-889255289/" target="_blank">
@@ -28,7 +26,7 @@
 
 <br><br>
 
-<img align="left" height="400" src="https://i.pinimg.com/1200x/91/1a/0b/911a0ba1009e5e14e1454c28d698f3cd.jpg"  />
+<img align="left" height="300" src="https://i.pinimg.com/1200x/91/1a/0b/911a0ba1009e5e14e1454c28d698f3cd.jpg"  />
 
 ###
 
