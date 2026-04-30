@@ -1,10 +1,9 @@
 <div align="center">
-
-  <!-- IMAGEM PRINCIPAL -->
   <img src="https://i.pinimg.com/736x/2d/a9/73/2da973e9c74c3cd66c850828bdf4f719.jpg" width="100%"/>
+</div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=60&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Let+me+be+your+Halo"/>
-
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=60&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Let+me+be+your+Halo" width="100%"/>
 </div>
 
 
