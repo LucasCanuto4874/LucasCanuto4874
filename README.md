@@ -87,6 +87,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasCanuto4874&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <div align="left">
 <a href="https://www.linkedin.com/in/lucas-canuto-889255289/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
