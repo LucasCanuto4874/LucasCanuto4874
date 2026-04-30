@@ -8,30 +8,27 @@
 
 </div>
 
----
-
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lucas-canuto-889255289/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="https://osu.ppy.sh/users/17024149" target="_blank">
-  <img src="https://img.shields.io/badge/osu!-000000?style=for-the-badge&logo=osu&logoColor=black"/>
+  <img src="https://img.shields.io/badge/osu!-white?style=for-the-badge&logo=osu&logoColor=black"/>
 </a>
 
 <a href="https://open.spotify.com/user/lucashatech09" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spotify-white?style=for-the-badge&logo=spotify&logoColor=black"/>
 </a>
 
 <a href="https://www.reddit.com/user/Typical_Stick7348/" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=black"/>
 </a>
 
 </div>
 
----
 
 ## Sobre mim
 
