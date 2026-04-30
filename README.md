@@ -18,26 +18,6 @@
 <h2 align="left">My name is Lucas, I'm 19 years old and I currently work as a FullStack Developer at Vivo Telefônica, while studying Information Systems at São Paulo Tech School. I have about 3 years of experience in the technology field, mainly focusing on backend and infrastructure, which is where I most enjoy delving into and exploring on a daily basis. Outside of coding, I enjoy playing games like osu!, Rainbow Six, Valorant, League of Legends, and Overwatch. I also have a strong connection to the JDM world, including collecting miniature cars, and my favorite is the Toyota Chaser JZX100.</h2>
 
 ###
-<div align="center">
-<a href="https://www.linkedin.com/in/lucas-canuto-889255289/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://osu.ppy.sh/users/17024149" target="_blank">
-  <img src="https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu&logoColor=white"/>
-</a>
-
-<a href="https://open.spotify.com/user/lucashatech09" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
-
-<a href="https://www.reddit.com/user/Typical_Stick7348/" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-</div>
-
-<br>
-<br>
 
 <h1 align="left">Technologies</h1>
 
@@ -109,6 +89,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LucasCanuto4874&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasCanuto4874&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<div align="left">
+<a href="https://www.linkedin.com/in/lucas-canuto-889255289/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://osu.ppy.sh/users/17024149" target="_blank">
+  <img src="https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/user/lucashatech09" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<a href="https://www.reddit.com/user/Typical_Stick7348/" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+</div>
+
 
 ###
 
