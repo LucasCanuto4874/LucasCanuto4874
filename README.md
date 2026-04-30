@@ -1,11 +1,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/2d/a9/73/2da973e9c74c3cd66c850828bdf4f719.jpg" width="100%"/>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=250&pause=1000&color=F7F7F7&width=1500&height=300&lines=Let+me+be+your+Halo" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=250&pause=1000&color=F7F7F7&width=1500&height=300&lines=Let+me+be+your+Halo" alt="Typing SVG" /></a>
-</div>
-<br><br>
 <div align="center">
 <a href="https://www.linkedin.com/in/lucas-canuto-889255289/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
