@@ -3,15 +3,11 @@
 </div>
 
 <br><br>
-<br><br>
-<br><br>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=60&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Let+me+be+your+Halo" width="100%"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Babylonica&size=60&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=150&lines=Let+me+be+your+Halo"/>
 </div>
 
-<br><br>
-<br><br>
 <br><br>
 
 <div align="center">
